@@ -1,0 +1,18 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files (e.g., macOS files)
+.DS_Store
+
+# Ignore environment-specific settings (if any)
+.env
+
+# Ignore the credentials file
+vacancy-parser-435508-1ac85c60f6c6.json
+
+# Ignore Pycharm specific files
+.idea/
